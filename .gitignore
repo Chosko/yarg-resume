@@ -1,0 +1,11 @@
+# node
+node_modules/
+npm-debug.log
+
+# resume files
+build
+config.yml
+
+.DS_Store
+
+

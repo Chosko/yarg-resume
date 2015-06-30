@@ -1,0 +1,12 @@
+presets:
+  default:
+    file: resume.yml
+    folder: resumes
+    theme: boilerplate
+  elegant:
+    theme: elegant
+  latex:
+    theme: latex
+  default_json:
+    file: _resume_orig.json
+    folder: ../resumes
